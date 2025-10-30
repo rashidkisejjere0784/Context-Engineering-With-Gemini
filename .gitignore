@@ -1,0 +1,11 @@
+venv
+venv_linux
+__pycache__
+.ruff_cache
+.pytest_cache
+.idea
+.venv
+uv.lock
+request_prp_v2.md
+*.html
+weather_cli/
